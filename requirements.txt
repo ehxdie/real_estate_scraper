@@ -1,0 +1,18 @@
+# Core scraping
+playwright>=1.43.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Retry logic
+tenacity>=9.0.0
+
+# Logging
+loguru>=0.7.0
+
+# Data export
+pandas>=2.0.0
+openpyxl>=3.1.0      # optional: only needed for .xlsx export
+
+# HTTP / parsing helpers (used by bs4 internally)
+requests>=2.32.0
+urllib3>=2.0.0
