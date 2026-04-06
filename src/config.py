@@ -1,5 +1,4 @@
-BASE_URL_MILWAUKEE = "https://milwaukee.craigslist.org/search/rea"
-BASE_URL_COLUMBUS = "https://columbus.craigslist.org/search/rea"
+c
 
 # Stealth headers (more realistic browser UA)
 HEADERS = {
